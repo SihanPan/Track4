@@ -1,7 +1,10 @@
 # ACC102 Track4: Interactive Financial Analysis Tool (WRDS Data)
 Student name: Sihan Pan
+
 Student ID: 2471700
+
 Module: ACC102
+
 Track: 4
 
 ## 1. Problem & User
